@@ -5,45 +5,47 @@
 
 `SOFTWARE ENGINEERING STUDENT` · `PROBLEM SOLVER` · `GAME DEVELOPMENT ENTHUSIAST`
 
-Hey! I'm a Software Engineering student at **Daffodil International University, Bangladesh**.
+## 👤 About Me
+I'm a Software Engineering student who enjoys figuring out how things work under the hood and turning that curiosity into code. I'm drawn to problem solving, systems and game development, and I like learning by doing.
 
-I enjoy understanding how things work, solving programming problems, and building things with code. I'm currently Learning JavaScript,C# and exploring game development using Unity.
+My goal is to grow into a well-rounded software engineer who creates reliable, practical software, from applications to games.
 
-<!-- QUICK INFO CARDS -->
+
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**⌘ What I work with**
+**💻 What I work with**
 
 - C and C++
-- JavaScript, HTML and CSS
-- SQL and database concepts
+- Java
+- HTML and CSS
 - Git and GitHub
 
 </td>
 <td width="50%" valign="top">
 
-**◈ What I'm exploring**
+**🚀 What I'm exploring**
 
 - Unity and game development
+- JavaScript
+- C#
 - Operating systems
-- Desktop and web development
-- System analysis and design
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**⌁ Problem solving**
+**🧠 Problem solving**
 
 Practicing data structures, algorithms, and programming challenges on **Codeforces**.
 
 </td>
 <td width="50%" valign="top">
 
-**⌂ Education**
+**🎓 Education**
 
 BSc in Software Engineering  
 Daffodil International University  
@@ -53,18 +55,21 @@ Bangladesh
 </tr>
 </table>
 
-## Tech Stack
+
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,mysql,git,github,vscode&perline=9" alt="C, C++, JavaScript, HTML, CSS, MySQL, Git, GitHub and VS Code"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,git,github&perline=7" alt="C, C++, Java, HTML, CSS, Git and GitHub"/>
 </p>
-
 <p align="center">
-  <sub>Currently exploring</sub><br/>
-  <img src="https://skillicons.dev/icons?i=unity&theme=dark" alt="Unity"/>
+  <sub><b>Currently exploring</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=js,cs,unity&theme=dark" alt="JavaScript, C# and Unity"/>
 </p>
 
-## Computer Science Foundations
+
+
+## 📚 Foundations
 
 <table>
 <tr>
@@ -113,19 +118,26 @@ Bangladesh
 </table>
 
 
-## ▣ GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Al-Noman001&show_icons=true&theme=github_dark&hide_border=true" height="145" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Al-Noman001&layout=compact&theme=github_dark&hide_border=true" height="145" />
+  <img src="https://streak-stats.demolab.com/?user=Abdullah-Al-Noman001&theme=merko&hide_border=true" alt="GitHub streak stats"/>
 </p>
 
-## ▣ Find Me
 
-[⌘ GitHub](https://github.com/Abdullah-Al-Noman001)
 
----
+## 🔗 Find Me
 
-<p align="center">
-  <sub>▰ Always learning. Always building. ▰</sub>
+<p>
+  <a href="https://www.facebook.com/share/1KSAqjfnTC/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://bd.linkedin.com/in/abdullah-a1-noman">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abdullahspacebd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
+
