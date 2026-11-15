@@ -1,116 +1,100 @@
-# Hey, I'm Abdullah Al Noman 👋
+```text
+ █████╗ ██████╗ ██████╗ ██╗   ██╗
+██╔══██╗██╔══██╗██╔══██╗██║   ██║
+███████║██████╔╝██║  ██║██║   ██║
+██╔══██║██╔══██╗██║  ██║██║   ██║
+██║  ██║██████╔╝██████╔╝╚██████╔╝
+╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝
+```
 
-### Software Engineering Student | Developer | Problem Solver
+# Abdullah Al Noman
 
-I'm a Software Engineering student at **Daffodil International University, Bangladesh**, interested in building software, solving problems, and exploring how technology works.
+`SOFTWARE ENGINEERING STUDENT` · `PROBLEM SOLVER` · `GAME DEV ENTHUSIAST`
 
-I enjoy working through programming challenges, understanding the logic behind algorithms, and turning ideas into functional applications. I'm particularly interested in software development, computer science fundamentals, and game development.
+Hey! I'm a Software Engineering student at **Daffodil International University, Bangladesh**.
 
-Currently, I'm practicing problem-solving on **Codeforces** and exploring **Unity** as I work towards building my own games.
+I like figuring out how things work, solving problems, and building things with code. Currently grinding Codeforces and exploring the world of game development with Unity.
 
----
+```text
+[ PLAYER STATUS ]
+> Learning new things       [ ACTIVE ]
+> Solving problems          [ ACTIVE ]
+> Building projects         [ ACTIVE ]
+> Game development          [ IN PROGRESS ]
+```
 
-## 🚀 Areas of Interest
+## ▣ Tech Inventory
 
-- **Software Development** — Designing and building applications.
-- **Problem Solving** — Data structures, algorithms, and competitive programming.
-- **Game Development** — Exploring Unity, gameplay mechanics, and game design.
-- **Computer Science** — Operating systems, databases, computer architecture, and algorithms.
-- **Software Engineering** — Requirements analysis, system design, and development processes.
+**Languages**
 
-## 🛠️ Technologies & Tools
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Programming Languages
+**Web & Database**
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Web & Database
+**Tools**
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-### Tools & Platforms
+**Currently Exploring**
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</p>
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Game Dev](https://img.shields.io/badge/Game_Development-6A5ACD?style=flat-square)
 
-### Currently Exploring
+## ▣ What I've Been Learning
 
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/Game_Development-6A5ACD?style=for-the-badge" alt="Game Development"/>
-</p>
+From programming fundamentals to software design, I've explored:
 
-## 🧠 Computer Science & Engineering
+- **Programming:** Structured programming, OOP, C and C++.
+- **DSA:** Data structures, algorithms, searching, sorting, and complexity analysis.
+- **Software Engineering:** Requirements, specifications, SDLC, system analysis, design, and project management.
+- **Databases:** Relational models, ER diagrams, schema design, and SQL.
+- **Computer Systems:** Digital logic, architecture, operating systems, processes, threads, memory management, and system programming.
+- **Development:** Desktop applications, web programming, and software project documentation.
 
-Beyond learning individual programming languages, I've been exploring the concepts that make software work:
+Currently studying **Operating Systems, System Analysis & Design, and Desktop & Web Programming**.
 
-- **Programming:** Structured programming, procedural programming, and object-oriented programming.
-- **Data Structures:** Arrays, linked lists, stacks, queues, trees, and graphs.
-- **Algorithms:** Searching, sorting, algorithm design, and time and space complexity.
-- **Software Engineering:** SDLC, requirements engineering, software specifications, system analysis, and design.
-- **Database Systems:** Relational databases, ER diagrams, database schema design, SQL, and data management.
-- **Computer Systems:** Digital logic, computer architecture, operating systems, processes, threads, memory management, and system programming.
-- **Software Projects:** Project planning, documentation, implementation, and system development.
+## ▣ Side Quests
 
-I'm currently studying Operating Systems & System Programming, System Analysis & Design, and Desktop & Web Programming.
+**Codeforces** — Sharpening my problem-solving skills, one problem at a time.
 
-## 💻 Problem Solving
+**Game Development** — Learning Unity, experimenting with game mechanics, and working towards making my own games.
 
-I enjoy solving programming problems on **Codeforces** to improve my logical thinking and algorithmic problem-solving skills.
-
-I like experimenting with different approaches, understanding why a solution works, and learning from problems I can't solve immediately.
-
-## 🎮 Game Development
-
-Game development is something I'm particularly excited about.
-
-I'm currently learning **Unity** and exploring how game engines work, from gameplay logic and mechanics to building interactive experiences. My goal is to eventually create and publish my own games.
-
-## 🚀 Featured Project
+## ▣ Featured Project
 
 ### [BS Card Game Bluff Tracker](https://github.com/Abdullah-Al-Noman001/bs-card-game-bluff-tracker)
 
-A browser-based companion for the BS (Bullshit) card game that tracks players' hands, cards in the pile, and estimates the probability of an opponent's claim being a bluff.
+A browser-based companion for the BS card game.
 
-**Built with:** HTML, CSS, JavaScript, and localStorage.
+- Tracks players, cards, and claims.
+- Estimates the probability of a bluff.
+- Saves game progress with localStorage.
 
-- Supports 2–10 players.
-- Tracks players' cards and claimed ranks.
-- Estimates bluff probability based on recorded gameplay.
-- Saves game progress locally in the browser.
+`HTML` `CSS` `JavaScript`
 
-[View Repository →](https://github.com/Abdullah-Al-Noman001/bs-card-game-bluff-tracker)
-
-## 📊 GitHub Stats
+## ▣ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Al-Noman001&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Al-Noman001&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Al-Noman001&show_icons=true&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Al-Noman001&layout=compact&theme=github_dark&hide_border=true" height="150" />
 </p>
 
----
+## ▣ Find Me
 
-## 🤝 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abdullah-Al-Noman001)
 
-<p>
-  <a href="https://github.com/Abdullah-Al-Noman001">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+```text
+╔══════════════════════════════════╗
+║  PLAYER 1: ABDULLAH              ║
+║  STATUS: ALWAYS LEARNING         ║
+║  NEXT LEVEL: ???                 ║
+╚══════════════════════════════════╝
+```
 
----
-
-<p align="center">
-  <i>Curious by nature. Learning by building.</i>
-</p>
