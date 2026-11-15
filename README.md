@@ -1,31 +1,18 @@
-```text
- █████╗ ██████╗ ██████╗ ██╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗██║   ██║
-███████║██████╔╝██║  ██║██║   ██║
-██╔══██║██╔══██╗██║  ██║██║   ██║
-██║  ██║██████╔╝██████╔╝╚██████╔╝
-╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝
-```
-
 # Abdullah Al Noman
 
-`SOFTWARE ENGINEERING STUDENT` · `PROBLEM SOLVER` · `GAME DEV ENTHUSIAST`
+### Software Engineering Student | Aspiring Software Developer
 
-Hey! I'm a Software Engineering student at **Daffodil International University, Bangladesh**.
+Hi! I'm Abdullah, a Software Engineering student at **Daffodil International University, Bangladesh**.
 
-I like figuring out how things work, solving problems, and building things with code. Currently grinding Codeforces and exploring the world of game development with Unity.
+I'm interested in software development, problem-solving, and understanding how things work behind the scenes. I enjoy practicing programming problems on Codeforces and exploring game development with Unity.
 
-```text
-[ PLAYER STATUS ]
-> Learning new things       [ ACTIVE ]
-> Solving problems          [ ACTIVE ]
-> Building projects         [ ACTIVE ]
-> Game development          [ IN PROGRESS ]
-```
+I'm always looking to learn something new and turn ideas into practical projects.
 
-## ▣ Tech Inventory
+---
 
-**Languages**
+### ▪ Technologies & Tools
+
+**Programming Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -46,55 +33,52 @@ I like figuring out how things work, solving problems, and building things with 
 **Currently Exploring**
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Game Dev](https://img.shields.io/badge/Game_Development-6A5ACD?style=flat-square)
+![Game Development](https://img.shields.io/badge/Game_Development-6A5ACD?style=flat-square)
 
-## ▣ What I've Been Learning
+---
 
-From programming fundamentals to software design, I've explored:
+### ▪ Areas of Interest
 
-- **Programming:** Structured programming, OOP, C and C++.
-- **DSA:** Data structures, algorithms, searching, sorting, and complexity analysis.
-- **Software Engineering:** Requirements, specifications, SDLC, system analysis, design, and project management.
-- **Databases:** Relational models, ER diagrams, schema design, and SQL.
-- **Computer Systems:** Digital logic, architecture, operating systems, processes, threads, memory management, and system programming.
-- **Development:** Desktop applications, web programming, and software project documentation.
+- **Programming & OOP:** Structured programming, object-oriented concepts, and software implementation.
+- **Data Structures & Algorithms:** Problem-solving, searching, sorting, and algorithm complexity.
+- **Software Engineering:** Requirements engineering, system analysis, software design, and project management.
+- **Databases:** Relational databases, SQL, ER diagrams, and database design.
+- **Computer Systems:** Computer architecture, digital logic, operating systems, and system programming.
+- **Application Development:** Desktop and web programming.
 
-Currently studying **Operating Systems, System Analysis & Design, and Desktop & Web Programming**.
+Currently studying Operating Systems & System Programming, System Analysis & Design, and Desktop & Web Programming.
 
-## ▣ Side Quests
+### ▪ Problem Solving
 
-**Codeforces** — Sharpening my problem-solving skills, one problem at a time.
+I regularly practice programming problems on **Codeforces**, focusing on improving my logic, algorithmic thinking, and problem-solving skills.
 
-**Game Development** — Learning Unity, experimenting with game mechanics, and working towards making my own games.
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=codeforces&logoColor=white)](YOUR_CODEFORCES_URL)
 
-## ▣ Featured Project
+### ▪ Game Development
 
-### [BS Card Game Bluff Tracker](https://github.com/Abdullah-Al-Noman001/bs-card-game-bluff-tracker)
+Currently exploring **Unity** and learning about game engines, gameplay mechanics, and the process of building interactive experiences.
 
-A browser-based companion for the BS card game.
+### ▪ Featured Project
 
-- Tracks players, cards, and claims.
-- Estimates the probability of a bluff.
-- Saves game progress with localStorage.
+**[BS Card Game Bluff Tracker](https://github.com/Abdullah-Al-Noman001/bs-card-game-bluff-tracker)**
 
-`HTML` `CSS` `JavaScript`
+A browser-based companion for the BS card game that tracks players' cards and estimates the probability of an opponent bluffing.
 
-## ▣ GitHub Stats
+`HTML` `CSS` `JavaScript` `localStorage`
+
+### ▪ GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Al-Noman001&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Al-Noman001&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Al-Noman001&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Al-Noman001&layout=compact&theme=github_dark&hide_border=true" height="150"/>
 </p>
 
-## ▣ Find Me
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abdullah-Al-Noman001)
+<p align="center">
+  <a href="https://github.com/Abdullah-Al-Noman001">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-```text
-╔══════════════════════════════════╗
-║  PLAYER 1: ABDULLAH              ║
-║  STATUS: ALWAYS LEARNING         ║
-║  NEXT LEVEL: ???                 ║
-╚══════════════════════════════════╝
-```
-
+<p align="center"><sub>Learning, building, and improving one project at a time.</sub></p>
