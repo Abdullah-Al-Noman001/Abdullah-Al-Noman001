@@ -1,84 +1,162 @@
-# Abdullah Al Noman
-
-### Software Engineering Student | Aspiring Software Developer
-
-Hi! I'm Abdullah, a Software Engineering student at **Daffodil International University, Bangladesh**.
-
-I'm interested in software development, problem-solving, and understanding how things work behind the scenes. I enjoy practicing programming problems on Codeforces and exploring game development with Unity.
-
-I'm always looking to learn something new and turn ideas into practical projects.
-
----
-
-### ▪ Technologies & Tools
-
-**Programming Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Web & Database**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-**Currently Exploring**
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Game Development](https://img.shields.io/badge/Game_Development-6A5ACD?style=flat-square)
-
----
-
-### ▪ Areas of Interest
-
-- **Programming & OOP:** Structured programming, object-oriented concepts, and software implementation.
-- **Data Structures & Algorithms:** Problem-solving, searching, sorting, and algorithm complexity.
-- **Software Engineering:** Requirements engineering, system analysis, software design, and project management.
-- **Databases:** Relational databases, SQL, ER diagrams, and database design.
-- **Computer Systems:** Computer architecture, digital logic, operating systems, and system programming.
-- **Application Development:** Desktop and web programming.
-
-Currently studying Operating Systems & System Programming, System Analysis & Design, and Desktop & Web Programming.
-
-### ▪ Problem Solving
-
-I regularly practice programming problems on **Codeforces**, focusing on improving my logic, algorithmic thinking, and problem-solving skills.
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=codeforces&logoColor=white)](YOUR_CODEFORCES_URL)
-
-### ▪ Game Development
-
-Currently exploring **Unity** and learning about game engines, gameplay mechanics, and the process of building interactive experiences.
-
-### ▪ Featured Project
-
-**[BS Card Game Bluff Tracker](https://github.com/Abdullah-Al-Noman001/bs-card-game-bluff-tracker)**
-
-A browser-based companion for the BS card game that tracks players' cards and estimates the probability of an opponent bluffing.
-
-`HTML` `CSS` `JavaScript` `localStorage`
-
-### ▪ GitHub Statistics
-
+<!-- HEADER -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Al-Noman001&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Al-Noman001&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:172554,100:334155&height=155&section=header&text=ABDULLAH%20AL%20NOMAN&fontSize=29&fontColor=ffffff&font=Press%20Start%202P&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20PROBLEM%20SOLVING%20%7C%20GAME%20DEVELOPMENT&descSize=11&descAlignY=78" width="100%" alt="Abdullah Al Noman - pixel font header"/>
 </p>
-
----
 
 <p align="center">
   <a href="https://github.com/Abdullah-Al-Noman001">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Abdullah--Al--Noman001-181717?style=flat-square&logo=github" />
   </a>
+  <img src="https://img.shields.io/badge/DIU-Software%20Engineering-1d4ed8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based%20in-Bangladesh-16865c?style=flat-square" />
 </p>
 
-<p align="center"><sub>Learning, building, and improving one project at a time.</sub></p>
+## About
+
+I'm a Software Engineering student at **Daffodil International University** who enjoys solving problems, understanding how software works, and building things along the way.
+
+Currently spending time on competitive programming, software development, and learning **Unity** to explore game development.
+
+<!-- QUICK INFO CARDS -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**⌘ What I work with**
+
+- C and C++
+- JavaScript, HTML and CSS
+- SQL and database concepts
+- Git and GitHub
+
+</td>
+<td width="50%" valign="top">
+
+**◈ What I'm exploring**
+
+- Unity and game development
+- Operating systems
+- Desktop and web development
+- System analysis and design
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⌁ Problem solving**
+
+Practicing data structures, algorithms, and programming challenges on **Codeforces**.
+
+</td>
+<td width="50%" valign="top">
+
+**⌂ Education**
+
+BSc in Software Engineering  
+Daffodil International University  
+Bangladesh
+
+</td>
+</tr>
+</table>
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,mysql,git,github,vscode&perline=9" alt="C, C++, JavaScript, HTML, CSS, MySQL, Git, GitHub and VS Code"/>
+</p>
+
+<p align="center">
+  <sub>Currently exploring</sub><br/>
+  <img src="https://skillicons.dev/icons?i=unity&theme=dark" alt="Unity"/>
+</p>
+
+## Computer Science Foundations
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 · Programming & Algorithms**
+
+- Structured and object-oriented programming
+- Data structures and algorithm design
+- Searching and sorting
+- Time and space complexity
+
+</td>
+<td width="50%" valign="top">
+
+**02 · Software Engineering**
+
+- Requirements engineering and SRS
+- SDLC and software development
+- System analysis and design
+- Project management and documentation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 · Databases**
+
+- Relational database systems
+- ER diagrams and database schemas
+- SQL and data management
+
+</td>
+<td width="50%" valign="top">
+
+**04 · Computer Systems**
+
+- Computer architecture
+- Digital electronics and logic design
+- Operating systems
+- Processes, threads and system programming
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <sub>Currently studying: Operating Systems & System Programming · System Analysis & Design Capstone · Desktop & Web Programming</sub>
+</p>
+
+## Selected Project
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### BS Card Game Bluff Tracker
+
+A browser-based companion for the BS card game. Tracks players' cards and claims, and estimates the probability of an opponent bluffing.
+
+`HTML` `CSS` `JavaScript` `localStorage`
+
+[View repository →](https://github.com/Abdullah-Al-Noman001/bs-card-game-bluff-tracker)
+
+</td>
+</tr>
+</table>
+
+## GitHub Overview
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Al-Noman001&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Al-Noman001&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/Abdullah-Al-Noman001">GitHub</a>
+  &nbsp; · &nbsp;
+  <a href="https://codeforces.com/">Codeforces</a>
+</p>
+
+<p align="center">
+  <sub>Building a little more with every line of code.</sub>
+</p>
